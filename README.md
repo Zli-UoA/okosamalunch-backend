@@ -1,1 +1,1 @@
-# okosamalunch
+# okosamalunch-backend
